@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/build-a-classic-duck-hunting-game-in-augmented-reality-from-scratch-video/9781789959260)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Build-a-Classic-Duck-Hunting-Game-in-Augmented-Reality-from-Scratch
 Code repository for Build a Classic Duck Hunting Game in Augmented Reality from Scratch, published by Packt
 # Build a Classic Duck Hunting Game in Augmented Reality from Scratch
